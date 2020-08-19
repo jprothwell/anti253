@@ -1,0 +1,31 @@
+{
+  "name": "anti253",
+  "version": "1.0.0",
+  "description": "anti253 APIs",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jprothwell/anti253.git"
+  },
+  "author": "leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jprothwell/anti253.git"
+  },
+  "homepage": "https://github.com/jprothwell/anti253.git",
+  "devDependencies": {
+    "doctoc": "^1.4.0",
+    "eslint": "^5.9.0",
+    "eslint-config-dwing": "^1.2.1",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "debug": "*",
+    "request": "*"
+  }
+}
