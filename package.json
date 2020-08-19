@@ -6,8 +6,7 @@
   "engines": {
     "node": ">= 8.0.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/jprothwell/anti253.git"
